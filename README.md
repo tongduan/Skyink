@@ -1,4 +1,11 @@
-# Skyink
+# Skyink Supports
+
+Welcome to use 'Skyink', If you have any idea or advices, please contact to me. thanks!
+
+Contact Information:
+
+Email: zhuekan246285@yeah.net
+
 
 This application provide a network speed, precise speed measurement tools for iPhone
 
@@ -11,15 +18,6 @@ Features:
 4. Show average download speed.
 5. Support iPhone/iPad/iTouch.
 6. Support iOS8 above devices
-
-
-Supports:
-
-Download in AppStore
-https://itunes.apple.com/cn/app/id1439434192
-
-Email to developer
-zhuekan246285@yeah.net
 
 
 Usage:
