@@ -2,6 +2,7 @@
 
 This application provide a network speed, precise speed measurement tools for iPhone
 
+
 Features:
 
 1. 2G, 3G, 4G, 5G, wifi network support.
@@ -11,6 +12,7 @@ Features:
 5. Support iPhone/iPad/iTouch.
 6. Support iOS8 above devices
 
+
 Supports:
 
 Download in AppStore
@@ -18,6 +20,7 @@ https://itunes.apple.com/cn/app/id1439434192
 
 Email to developer
 zhuekan246285@yeah.net
+
 
 Usage:
 
