@@ -19,12 +19,3 @@ Features:
 5. Support iPhone/iPad/iTouch.
 6. Support iOS8 above devices
 
-
-Usage:
-
-1. Open the application, you will see the  ip config and net environment
-![step1](http://skyink-supports.oss-cn-qingdao.aliyuncs.com/Simulator%20Screen%20Shot%20-%20iPhone%207%20Plus%20-%202018-10-18%20at%2021.46.51.png)
-2. Press start for download speed display in the Meter
-![step2](http://skyink-supports.oss-cn-qingdao.aliyuncs.com/Simulator%20Screen%20Shot%20-%20iPhone%207%20Plus%20-%202018-10-18%20at%2021.47.05.png)
-3. The average speed display in the Meter when download test complete
-
